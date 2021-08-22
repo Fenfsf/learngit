@@ -76,7 +76,7 @@ create table `classes`(
 
 insert into classes (`class_name`, `teacher`) values ('三年一班', '郑孝军'), ('三年二班', '赵梅'), ('三年三班', '梅田')
 
-update students set class_id = 3 where address='河南省平顶山市'
+update students set class_id = 3 where address='中国'
 
 
 
